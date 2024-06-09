@@ -20,7 +20,7 @@ namespace Patcher
                     using (var client = new HttpClient())
                     {
                         var response = await client.GetAsync(
-                            "https://raw.githubusercontent.com/Poyoanon/fetch-test/master/data1.lpk"
+                            "https://raw.githubusercontent.com/Poyoanon/loa-elixir-patcher/master/data1.lpk"
                         );
                         response.EnsureSuccessStatusCode();
                         var fileBytes = await response.Content.ReadAsByteArrayAsync();
