@@ -1,10 +1,14 @@
 # Lost Ark Elixir Patcher
 
-This is a simple tool to patch out the animations from cutting Elixirs. Technically, I've also removed the photosensitive seizure warnings and other related startup movies. All you need to do is select your EFGame folder and the program will make a backup of your file and fetch the modded version of the data1.lpk from this repository. I will try to update this regularly, as occasionally the game will replace the file through patches.
+This is a simple tool to patch out the animations from cutting Elixirs. All you need to do is select your EFGame folder and the program will make a backup of your file and fetch the modded version of the data1.lpk from this repository. I will try to update this regularly, as occasionally the game will replace the file through patches.
 
 **Make sure your game is closed when patching the files!**
 
 [You can download the patcher here and click on the .exe file.](https://github.com/Poyoanon/loa-elixir-patcher/releases)
+
+## Demo
+
+[You can watch the demonstration video here.](https://streamable.com/wik31d)
 
 ### USE AT YOUR OWN RISK!
 
