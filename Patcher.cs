@@ -1,13 +1,13 @@
 using System.IO;
 using System.Net.Http;
 
-namespace Patcher
-{
+namespace Patcher;
+
     public class Patcher
     {
         public async Task PatchFileAsync()
         {
-            using (var folderBrowser = new FolderBrowserDialog())
+            using var folderBrowser = new FolderBrowserDialog();
             {
                 folderBrowser.Description =
                     @"Select your EFGame folder. This should be where your Lost Ark is installed, usually in C:\Program Files (x86)\Steam\steamapps\common\Lost Ark\EFGame";
@@ -50,4 +50,4 @@ namespace Patcher
             }
         }
     }
-}
+

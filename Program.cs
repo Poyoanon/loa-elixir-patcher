@@ -1,12 +1,9 @@
-﻿using System;
-using System.Windows.Forms;
-
-namespace Patcher
+﻿namespace Patcher
 {
     class Program
     {
         [STAThread]
-        static void Main(string[] args)
+        public static void Main()
         {
             var patcher = new Patcher();
             patcher.PatchFileAsync().Wait();
