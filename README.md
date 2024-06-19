@@ -2,7 +2,7 @@
 
 This is a simple tool to patch out the animations from cutting Elixirs. All you need to do is select your EFGame folder and the program will make a backup of your file and fetch the modded version of the data1.lpk from this repository. I will try to update this regularly, as occasionally the game will replace the file through patches.
 
-6/12 Maintenance - No update required. Hooray!
+6/19 Maintenance - It's been updated for Echidna, have fun.
 
 **Make sure your game is closed when patching the files!**
 
