@@ -2,8 +2,7 @@
 
 This is a simple tool to patch out the animations from cutting Elixirs. All you need to do is select your EFGame folder and the program will make a backup of your file and fetch the modded version of the data1.lpk from this repository. I will try to update this regularly, as occasionally the game will replace the file through patches.
 
-10/7 Maintenance - Still works! 
-NOTE: Next week (Solo Raid patch) will BREAK elixir fix files. Please be patient until I update the fix when that happens.
+17/7 Cool Retreat Update - should work!
 As a point of reference, only MAJOR patches will break the elixir patch. It will still work as intended otherwise after non-update maintenances.
 
 **Make sure your game is closed when patching the files!**
