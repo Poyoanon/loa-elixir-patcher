@@ -7,6 +7,9 @@ As a point of reference, only MAJOR patches will break the elixir patch. It will
 
 **Make sure your game is closed when patching the files!**
 
+# THEY'RE INCLUDING THE ELIXIR SKIP OPTION ON 7/24 PATCH! 
+Happy to have helped everyone in the meantime. :mokobow: This repository will be archived.
+
 [You can download the patcher here and click on the .exe file.](https://github.com/Poyoanon/loa-elixir-patcher/releases)
 
 ## Demo
